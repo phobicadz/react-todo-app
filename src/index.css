@@ -1,0 +1,8 @@
+/* Base styles for the application */
+html, body {
+  height: 100%;
+}
+
+#root {
+  min-height: 100%;
+}
